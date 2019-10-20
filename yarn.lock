@@ -7138,6 +7138,11 @@ simple-swizzle@^0.2.2:
   dependencies:
     is-arrayish "^0.3.1"
 
+single-spa-vue@^1.5.2:
+  version "1.5.4"
+  resolved "https://registry.npm.taobao.org/single-spa-vue/download/single-spa-vue-1.5.4.tgz#28290b8992a0e9868edf4d28e4ad997822039576"
+  integrity sha1-KCkLiZKg6YaO300o5K2ZeCIDlXY=
+
 slash@^1.0.0:
   version "1.0.0"
   resolved "https://registry.npm.taobao.org/slash/download/slash-1.0.0.tgz#c41f2f6c39fc16d1cd17ad4b5d896114ae470d55"
@@ -8094,6 +8099,11 @@ vm-browserify@^1.0.1:
   version "1.1.0"
   resolved "https://registry.npm.taobao.org/vm-browserify/download/vm-browserify-1.1.0.tgz#bd76d6a23323e2ca8ffa12028dc04559c75f9019"
   integrity sha1-vXbWojMj4sqP+hICjcBFWcdfkBk=
+
+vue-cli-plugin-single-spa@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.npm.taobao.org/vue-cli-plugin-single-spa/download/vue-cli-plugin-single-spa-1.0.1.tgz#5b415171a64360afc97530f597d458a07fcda0c4"
+  integrity sha1-W0FRcaZDYK/JdTD1l9RYoH/NoMQ=
 
 vue-eslint-parser@^5.0.0:
   version "5.0.0"
